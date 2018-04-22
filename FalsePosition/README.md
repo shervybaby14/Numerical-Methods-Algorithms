@@ -1,10 +1,8 @@
 ### False Position
 ## Purpose 
-
-
-
-
-
+This is a function designed to run the computation for a false position
+algorithm to estimate the root of a function until a desired amount of
+iterations or until the desired error is reached.
 ## Inputs
 * func = the function being evaluated
 * xl = the lower guess
