@@ -1,4 +1,4 @@
-### False Position
+# falsePosition.m
 ## Purpose 
 This is a function designed to run the computation for a false position
 algorithm to estimate the root of a function until a desired amount of
