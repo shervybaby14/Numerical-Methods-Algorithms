@@ -1,4 +1,4 @@
-Simpson.m
+# Simpson.m
 ## Purpose
 The Simpson function file was created to calculate the integral of area
 given a set of X values, IN INCREASING ORDER, and Y values using the Simpson's 1/3 rule on the
